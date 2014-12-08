@@ -11,3 +11,5 @@ direction = 0;
 gravity = 0;
 friction = 0;
 
+y = y - 1;
+
